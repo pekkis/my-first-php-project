@@ -28,7 +28,7 @@ Docker is required.
     - jos tätä ei ole erikseen määrittänyt, vim aktivoituu usein
     - vimiä pitää osata käyttää tai sieltä täytyy osata paeta
       - :q!
-    - se, miten EDITOR konffataan niin, että kone sen myöhemmin muistaa, riippuu shellistä (bash, zsh, jne)
+    - se, miten EDITOR konffataan niin, että kone sen myöhemmin muistaa, riippuu shellistä (bash, sh, zsh, jne)
       - zsh-shellin profiili asuu `~/.zshrc` tiedostossa
     - shellin alla asuu terminaaliemulaattori (ghostty, perus terminaali, iterm 2)
     -
