@@ -4,6 +4,10 @@
 
 Bobbidi buu!
 
+# Lollero
+
+Pallero!
+
 ## Develop
 
 Docker is required.
